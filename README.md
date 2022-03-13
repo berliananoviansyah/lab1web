@@ -31,6 +31,7 @@ Untuk membuat dan menambahkan Judul paragraf seperti dibawah ini :
 ![membuat_dan_menambahkan_judul_paragraf](img/JP12.png)
 
 Didapatkan dari codingan sebagai berikut :
+
 ```html
 <body>
     <!-- Judul paragraf pertama -->
@@ -43,4 +44,4 @@ Didapatkan dari codingan sebagai berikut :
         <strong>Paragraf Pada HTML</strong>
     </h2>
 ```
-Dimana <h1> digunakan untuk membuat header pertama dengan ukuran font yang besar, dan <h2> digunakan untuk membuat header dengan ukuran yang lebih kecil daripada <h1>
+Dimana h1 digunakan untuk membuat header pertama dengan ukuran font yang besar, dan h2 digunakan untuk membuat header dengan ukuran yang lebih kecil daripada h1.
