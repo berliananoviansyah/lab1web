@@ -100,3 +100,14 @@ Dan dengan hasil output sebagai berikut :
 ![membuat_italic_font](img/fontstyle.png)
 
 Terdapat pada kalimat "Teknik Informatika"
+
+## Menambahkan gambar
+Dengan menggunakan coding :
+
+```html
+ <!-- Menambahkan gambar -->
+   <h2>Menambahkan gambar</h2>
+   <!-- Menambahkan gambar pada dokumen -->
+   <img src="img/logo2.png" alt="UPB" title="Logo Universitas Pelita Bangsa" width="200px"
+```
+Baris perintah diatas digunakan untuk menambahkan gambar pada web yang akan dibuat. Dimana "img src" digunakan sebagai baris perintah untuk menampilkan gambar yang diinginkan. "title" digunakan untuk menamai gambar yang dimasukan "width" digunakan untuk mengatur besaran gambar yang dimasukkan.
