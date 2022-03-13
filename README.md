@@ -101,7 +101,7 @@ Dan dengan hasil output sebagai berikut :
 
 Terdapat pada kalimat "Teknik Informatika"
 
-## Menambahkan gambar
+## 6. Menambahkan gambar
 --------------------------------------------------
 
 Dengan menggunakan coding :
@@ -116,4 +116,10 @@ Output :
 
 ![menambahkan_gambar](img/gambar1.png)
 
-Baris perintah diatas digunakan untuk menambahkan gambar pada web yang akan dibuat. Dimana "img src" digunakan sebagai baris perintah untuk menampilkan gambar yang diinginkan. "title" digunakan untuk menamai gambar yang dimasukan "width" digunakan untuk mengatur besaran gambar yang dimasukkan.
+Baris perintah diatas digunakan untuk menambahkan gambar pada web yang akan dibuat. 
+Dimana "img src" digunakan sebagai baris perintah untuk memunculkan gambar yang diinginkan. 
+"alt" berfungsi untuk menginfokan pada saat gambar tidak muncul, jika gambar tidak muncul maka digantikan dengan tulisan yang terdapat pada alt tersebut. 
+"title" digunakan untuk menamai gambar ketika kursor mengarah pada gambar yang dimasukkan. "width" digunakan untuk mengatur besaran gambar yang dimasukkan.
+
+## 7. Membuat Link
+--------------------------------------------------
