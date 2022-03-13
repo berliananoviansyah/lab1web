@@ -79,7 +79,7 @@ Dengan memuat codingan "strong" atau "b" :
 
  <!-- paragraf kedua -->
    <p align="left">
-       Hypertext Markup Languageadalah bahasa markah standar <u>untuk dokumen yang dirangcang untuk tampilan di peramban internet.</u>
+       Hypertext Markup Language adalah bahasa markah standar <u>untuk dokumen yang dirangcang untuk tampilan di peramban internet.</u>
     </p>
 
 
@@ -120,7 +120,24 @@ Baris perintah diatas digunakan untuk menambahkan gambar pada web yang akan dibu
 Dimana :
 * "img src" digunakan sebagai baris perintah untuk memunculkan gambar yang diinginkan. <br>
 * "alt" berfungsi untuk menginfokan pada saat gambar tidak muncul, jika gambar tidak muncul maka digantikan dengan tulisan yang terdapat pada alt tersebut.<br> 
-* "title" digunakan untuk menamai gambar ketika kursor mengarah pada gambar yang dimasukkan. "width" digunakan untuk mengatur besaran gambar yang dimasukkan.<br>
+* "title" digunakan untuk menamai gambar ketika kursor mengarah pada gambar yang dimasukkan. <br>
+* "width" digunakan untuk mengatur besaran gambar yang dimasukkan.<br>
 
 ## 7. Membuat Link
 --------------------------------------------------
+
+Yang terakhir adalah menyisipkan link pada web. dengan menggunakan coding :
+
+```html
+ <!-- menambahkan navigasi -->
+    <nav>
+        <a href="tag_dasar.html">DASAR - DASAR HTML</a> 
+        <a href="halaman2.html">Halaman 2</a>
+        <a href="https://youtube.com/channel/UCyNhJVs_PRDm_7fnSjjNqWA">Youtube</a>
+    </nav>
+<hr>
+```
+Baris perintah yang digunakan untuk memunculkan link adalah "a href". <br>
+"hr" digunakan untuk membuat garis horizontal.<br>
+Berikut adalah contoh outputannya :<br>
+![menambahkan_link](img/link.png)
