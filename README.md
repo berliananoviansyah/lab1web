@@ -141,3 +141,6 @@ Baris perintah yang digunakan untuk memunculkan link adalah "a href". <br>
 "hr" digunakan untuk membuat garis horizontal.<br>
 Berikut adalah contoh outputannya :<br>
 ![menambahkan_link](img/link.png)
+
+------------------------- Sekian, Terima Kasih -------------------------
+------------------------------------------------------------------------
