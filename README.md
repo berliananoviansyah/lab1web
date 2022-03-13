@@ -142,5 +142,5 @@ Baris perintah yang digunakan untuk memunculkan link adalah "a href". <br>
 Berikut adalah contoh outputannya :<br>
 ![menambahkan_link](img/link.png)
 
-------------------------- Sekian, Terima Kasih -------------------------
+------------------------- Sekian, Terima Kasih -------------------------<br>
 ----------------------- Wassalamu'alaikum Wr.Wb ------------------------
