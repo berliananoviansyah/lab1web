@@ -117,9 +117,10 @@ Output :
 ![menambahkan_gambar](img/gambar1.png)
 
 Baris perintah diatas digunakan untuk menambahkan gambar pada web yang akan dibuat.<br> 
-Dimana "img src" digunakan sebagai baris perintah untuk memunculkan gambar yang diinginkan. <br>
-"alt" berfungsi untuk menginfokan pada saat gambar tidak muncul, jika gambar tidak muncul maka digantikan dengan tulisan yang terdapat pada alt tersebut.<br> 
-"title" digunakan untuk menamai gambar ketika kursor mengarah pada gambar yang dimasukkan. "width" digunakan untuk mengatur besaran gambar yang dimasukkan.<br>
+Dimana :
+* "img src" digunakan sebagai baris perintah untuk memunculkan gambar yang diinginkan. <br>
+* "alt" berfungsi untuk menginfokan pada saat gambar tidak muncul, jika gambar tidak muncul maka digantikan dengan tulisan yang terdapat pada alt tersebut.<br> 
+* "title" digunakan untuk menamai gambar ketika kursor mengarah pada gambar yang dimasukkan. "width" digunakan untuk mengatur besaran gambar yang dimasukkan.<br>
 
 ## 7. Membuat Link
 --------------------------------------------------
