@@ -42,3 +42,5 @@ Didapatkan dari codingan sebagai berikut :
     <h2>
         <strong>Paragraf Pada HTML</strong>
     </h2>
+```
+Dimana <h1> digunakan untuk membuat header pertama dengan ukuran font yang besar, dan <h2> digunakan untuk membuat header dengan ukuran yang lebih kecil daripada <h1>
