@@ -4,7 +4,9 @@
 |   -------------------   |   ---------   |
 |   Teknik Informatika    |Pemrograman Web|
 
-## Membuat Paragraf Center & left
+
+
+## 1. Membuat Paragraf Center & left
 --------------------------------------------------
 ![membuat_paragraf_perkenalan](img/perkenalan.png)
 
@@ -25,7 +27,8 @@ dengan contoh codingan sebagai berikut :
 </body>
 ```
 
-## Membuat Judul Paragraf 1 & 2
+
+## 2. Membuat Judul Paragraf 1 & 2
 --------------------------------------------------
 Untuk membuat dan menambahkan Judul paragraf seperti dibawah ini :
 
@@ -47,7 +50,8 @@ Didapatkan dari codingan sebagai berikut :
 ```
 Dimana h1 digunakan untuk membuat header pertama dengan ukuran font yang besar, dan h2 digunakan untuk membuat header dengan ukuran yang lebih kecil daripada h1.
 
-## Mengaktifkan Bold
+
+## 3. Mengaktifkan Bold
 --------------------------------------------------
 Bold sendiri adalah salah satu font style yang membuat huruf menjadi lebih tebal pada kata atau kalimat bahkan paragraf yang kita inginkan.
 
@@ -63,7 +67,8 @@ Dengan memuat codingan "strong" atau "b" :
  Dengan hasil output sebagai berikut :
  ![Mengaktifkan_bold](img/perkenalan.png)
 
- ## Mengaktifkan Underline
+
+ ## 4. Mengaktifkan Underline
  --------------------------------------------------
  Underline atau garis bawah dapat digunakan untuk memberi garis yang berada dibawah teks tulisan yang mempunyai arti penting sehingga disarankan untuk menambahkan underline. Contoh outputnya sebagai berikut :
 
@@ -78,7 +83,8 @@ Dengan memuat codingan "strong" atau "b" :
        Hypertext Markup Languageadalah bahasa markah standar <u>untuk dokumen yang dirangcang untuk tampilan di peramban internet.</u>
     </p>
 
-## Membuat Italic pada font
+
+## 5. Membuat Italic pada font
 --------------------------------------------------
 <i> digunakan untuk membuat perintah italic pada huruf atau kalimat yang memepunyai arti atau maksud penting.
 
