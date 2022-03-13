@@ -23,3 +23,22 @@ dengan contoh codingan sebagai berikut :
    </p>
 </body>
 ```
+
+## Membuat Judul Paragraf 1 & 2
+
+Untuk membuat dan menambahkan Judul paragraf seperti dibawah ini :
+
+![membuat_dan_menambahkan_judul_paragraf](img/JP12.png)
+
+Didapatkan dari codingan sebagai berikut :
+```html
+<body>
+    <!-- Judul paragraf pertama -->
+    <h1>
+        <strong>Belajar Dasar HTML</strong>
+    </h1>
+
+    <!-- Judul Paragraf Kedua -->
+    <h2>
+        <strong>Paragraf Pada HTML</strong>
+    </h2>
