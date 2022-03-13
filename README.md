@@ -3,8 +3,8 @@
 |   Berliana Noviansyah   |   312010373   |
 |   -------------------   |   ---------   |
 |   Teknik Informatika    |Pemrograman Web|
-\n
-\n
+
+
 ## 1. Membuat Paragraf Center & left
 --------------------------------------------------
 ![membuat_paragraf_perkenalan](img/perkenalan.png)
