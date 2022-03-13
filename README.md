@@ -5,6 +5,7 @@
 |   Teknik Informatika    |Pemrograman Web|
 
 ## Membuat Paragraf Center & left
+--------------------------------------------------
 ![membuat_paragraf_perkenalan](img/perkenalan.png)
 
 Gambar diatas adala contoh hasil dari tag <p> 
@@ -25,7 +26,7 @@ dengan contoh codingan sebagai berikut :
 ```
 
 ## Membuat Judul Paragraf 1 & 2
-
+--------------------------------------------------
 Untuk membuat dan menambahkan Judul paragraf seperti dibawah ini :
 
 ![membuat_dan_menambahkan_judul_paragraf](img/JP12.png)
@@ -45,3 +46,4 @@ Didapatkan dari codingan sebagai berikut :
     </h2>
 ```
 Dimana h1 digunakan untuk membuat header pertama dengan ukuran font yang besar, dan h2 digunakan untuk membuat header dengan ukuran yang lebih kecil daripada h1.
+
