@@ -48,12 +48,50 @@ Didapatkan dari codingan sebagai berikut :
 Dimana h1 digunakan untuk membuat header pertama dengan ukuran font yang besar, dan h2 digunakan untuk membuat header dengan ukuran yang lebih kecil daripada h1.
 
 ## Mengaktifkan Bold
-<u>Bold</u> sendiri adalah salah satu font style yang membuat huruf menjadi lebih tebal pada kata atau kalimat bahkan paragraf yang kita inginkan.
+--------------------------------------------------
+Bold sendiri adalah salah satu font style yang membuat huruf menjadi lebih tebal pada kata atau kalimat bahkan paragraf yang kita inginkan.
 
-Dengan memuat <u>codingan</u> "strong" atau "b" :
+Dengan memuat codingan "strong" atau "b" :
 
 ```html
- <strong>Perkenalkan nama saya Berliana Noviansyah kelas TI.20.A1 Teknik Informatika Universitas Pelita Bangsa  </strong>
+ <!-- paragraf pertama -->
+    <p align="center">
+        <strong>Perkenalkan nama saya Berliana Noviansyah kelas TI.20.A1 Teknik Informatika Universitas Pelita Bangsa  </strong>
+    </p>
  ```
+
  Dengan hasil output sebagai berikut :
  ![Mengaktifkan_bold](img/perkenalan.png)
+
+ ## Mengaktifkan Underline
+ --------------------------------------------------
+ Underline atau garis bawah dapat digunakan untuk memberi garis yang berada dibawah teks tulisan yang mempunyai arti penting sehingga disarankan untuk menambahkan underline. Contoh outputnya sebagai berikut :
+
+ ![mengaktifkan_underline](img/fontstyle.png)
+
+ pada kalimat "untuk dokumen yang dirangcang untuk tampilan di peramban internet."
+
+ Coding untuk membuat underline adalah <u> : 
+
+ <!-- paragraf kedua -->
+   <p align="left">
+       Hypertext Markup Languageadalah bahasa markah standar <u>untuk dokumen yang dirangcang untuk tampilan di peramban internet.</u>
+    </p>
+
+## Membuat Italic pada font
+--------------------------------------------------
+<i> digunakan untuk membuat perintah italic pada huruf atau kalimat yang memepunyai arti atau maksud penting.
+
+Contoh coding untuk perintah italic :
+
+```html
+<!-- paragraf pertama -->
+    <p align="center">
+        Perkenalkan nama saya Berliana Noviansyah kelas TI.20.A1 <i>Teknik Informatika</i> Universitas Pelita Bangsa
+    </p>
+```
+Dan dengan hasil output sebagai berikut :
+
+![membuat_italic_font](img/fontstyle.png)
+
+Terdapat pada kalimat "Teknik Informatika"
