@@ -47,3 +47,13 @@ Didapatkan dari codingan sebagai berikut :
 ```
 Dimana h1 digunakan untuk membuat header pertama dengan ukuran font yang besar, dan h2 digunakan untuk membuat header dengan ukuran yang lebih kecil daripada h1.
 
+## Mengaktifkan Bold
+<u>Bold</u> sendiri adalah salah satu font style yang membuat huruf menjadi lebih tebal pada kata atau kalimat bahkan paragraf yang kita inginkan.
+
+Dengan memuat <u>codingan</u> "strong" atau "b" :
+
+```html
+ <strong>Perkenalkan nama saya Berliana Noviansyah kelas TI.20.A1 Teknik Informatika Universitas Pelita Bangsa  </strong>
+ ```
+ Dengan hasil output sebagai berikut :
+ ![Mengaktifkan_bold](img/perkenalan.png)
